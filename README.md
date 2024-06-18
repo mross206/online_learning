@@ -1,2 +1,2 @@
 # mimo_learning
-Lesson from Mimo Python Developer Course
+Lessons from Mimo Python Developer Course
